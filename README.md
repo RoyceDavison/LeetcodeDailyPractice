@@ -1,1 +1,2 @@
 # LeetcodeDailyPractice
+Practice leetcode problem.
